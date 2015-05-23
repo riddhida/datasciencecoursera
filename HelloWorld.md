@@ -3,3 +3,13 @@
 =======
 # Hello World 
 ## This is a markdown file
+
+*Italic characters* 
+
+_Italic characters_
+
+**bold characters**
+
+__bold characters__
+
+~~strikethrough text~~
